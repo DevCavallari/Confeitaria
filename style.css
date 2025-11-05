@@ -28,11 +28,4 @@ nav ul li {
   display: inline;
   margin: 0 15px;
 }
-img {
-  width: 100px;
-  height: 300px;
-  object-fit: cover;
-  justify-content: center;
-  display: flex;
-  align-items: center;
-}
+
